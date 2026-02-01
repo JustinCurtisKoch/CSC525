@@ -1,0 +1,15 @@
+ORIGINAL: The only people for me are the mad ones, the ones who are mad to live,
+AUGMENTED: The only ones for me are the crazy ones, the crazy ones for living,
+
+ORIGINAL: mad to talk, mad to be saved, desirous of everything at the same time,
+AUGMENTED: Mad to talk, crazy to be saved, desiring everything at the same time,
+
+ORIGINAL: the ones who never yawn or say a commonplace thing, but burn, burn, burn,
+AUGMENTED: Those who never yawn or say anything in common, but burn, burn, burn, burn,
+
+ORIGINAL: like fabulous yellow roman candles exploding like spiders across the stars
+AUGMENTED: like fabulous yellow Roman candles that explode like spiders through the stars
+
+ORIGINAL: and in the middle you see the blue centerlight pop and everybody goes “Awww!”
+AUGMENTED: And in the middle, you see the central light blue pop and everyone goes to the web!
+

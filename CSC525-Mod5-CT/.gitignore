@@ -1,0 +1,16 @@
+
+---
+
+## 📄 `.gitignore`
+
+```text
+__pycache__/
+*.pyc
+*.pyo
+.env
+.venv
+venv/
+.env/
+.ipynb_checkpoints/
+.cache/
+models/
